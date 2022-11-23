@@ -41,7 +41,7 @@
     "react-giphy-searchbox": "^1.0.5",
     "redux-promise": "^0.6.0",
     "request": "^2.88.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^2.3.0",
     "utf-8-validate": "^5.0.2"
   }
