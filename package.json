@@ -27,7 +27,7 @@
     "btoa": "^1.2.1",
     "bufferutil": "^4.0.1",
     "command-line-args": "^5.1.1",
-    "config": "^3.2.5",
+    "config": "^3.3.8",
     "cors": "^2.8.5",
     "express": "^4.16.3",
     "express-fileupload": "^1.1.6",
